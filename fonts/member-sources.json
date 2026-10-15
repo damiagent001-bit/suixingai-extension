@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ZhiMangXing",
+    "label": "志莽行书",
+    "weight": "400",
+    "source": "https://github.com/google/fonts/tree/main/ofl/zhimangxing",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/zhimangxing/ZhiMangXing-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/zhimangxing/OFL.txt",
+    "sha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
+    "bytes": 4063532,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "LiuJianMaoCao",
+    "label": "刘建毛草",
+    "weight": "400",
+    "source": "https://github.com/google/fonts/tree/main/ofl/liujianmaocao",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/liujianmaocao/LiuJianMaoCao-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/liujianmaocao/OFL.txt",
+    "sha256": "cab396b91a5b7c0b4005a35891180d06e6751f5ac261fe680aec65c1ae209033",
+    "bytes": 4951804,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "LXGWMarkerGothic",
+    "label": "霞鹜漫黑",
+    "weight": "400",
+    "source": "https://github.com/google/fonts/tree/main/ofl/lxgwmarkergothic",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/lxgwmarkergothic/LXGWMarkerGothic-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/lxgwmarkergothic/OFL.txt",
+    "sha256": "e6a55cfd5f18dc393f92670a164397a69242cb4eabe1d3feb5dc22fc4947a8ba",
+    "bytes": 3187360,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "ChironGoRoundTC",
+    "label": "昭源环方 · 繁体",
+    "weight": "200 900",
+    "source": "https://github.com/google/fonts/tree/main/ofl/chirongoroundtc",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/chirongoroundtc/ChironGoRoundTC%5Bwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/chirongoroundtc/OFL.txt",
+    "sha256": "47cd5ff5153799d4c0d05bcc64da849e13b8eb842e46728a66bf2d52c480231f",
+    "bytes": 51170304,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "ChironHeiHK",
+    "label": "昭源黑体 · 港繁",
+    "weight": "200 900",
+    "source": "https://github.com/google/fonts/tree/main/ofl/chironheihk",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/chironheihk/ChironHeiHK-Italic%5Bwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/chironheihk/OFL.txt",
+    "sha256": "e9e78771ef2cedf21cc01cf3f547036f55e5b183190473cb6f3804f49507707b",
+    "bytes": 33329960,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "ChironSungHK",
+    "label": "昭源宋体 · 港繁",
+    "weight": "200 900",
+    "source": "https://github.com/google/fonts/tree/main/ofl/chironsunghk",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/chironsunghk/ChironSungHK-Italic%5Bwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/chironsunghk/OFL.txt",
+    "sha256": "5e2434ba30eee3ed90fcf5aed4690964cdf9c7c0cf9bec61b1adb695f009e12f",
+    "bytes": 51926120,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "ChocolateClassicalSans",
+    "label": "朱古力黑体 · 繁体",
+    "weight": "400",
+    "source": "https://github.com/google/fonts/tree/main/ofl/chocolateclassicalsans",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/chocolateclassicalsans/ChocolateClassicalSans-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/chocolateclassicalsans/OFL.txt",
+    "sha256": "e6345f3d92c7a9b7044c31a87d9b61f50220b08c0f1dcc2736e94c2aa587ce03",
+    "bytes": 12183000,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "Huninn",
+    "label": "粉圆 · 繁体",
+    "weight": "400",
+    "source": "https://github.com/google/fonts/tree/main/ofl/huninn",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/huninn/Huninn-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/huninn/OFL.txt",
+    "sha256": "1bd770a5ffc0c06723b567686f8b5db5abf9ab54227f3bbc4e6fd648f4698805",
+    "bytes": 4683972,
+    "sampleCoverage": 17
+  },
+  {
+    "id": "Iansui",
+    "label": "芫荽 · 繁体",
+    "weight": "400",
+    "source": "https://github.com/google/fonts/tree/main/ofl/iansui",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/iansui/Iansui-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/iansui/OFL.txt",
+    "sha256": "6e6340d80d618a42b48ade9370c34fa37a8210750c6fbc8efe65f23716538a2b",
+    "bytes": 9420560,
+    "sampleCoverage": 17
+  },
+  {
+    "id": "LXGW975Yuan",
+    "label": "霞鹜975圆体",
+    "weight": "400",
+    "source": "https://github.com/lxgw/975Yuan/releases/tag/26.07.26",
+    "download": "https://github.com/lxgw/975Yuan/releases/download/26.07.26/LXGW975YuanSC-400W.ttf",
+    "license": "https://raw.githubusercontent.com/lxgw/975Yuan/master/OFL.txt",
+    "sha256": "d14f5a453a221525f0db4887412712cbc03a84d0dc44ce2d22d51d1c136ed9a1",
+    "bytes": 14525950,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "LXGW975Hei",
+    "label": "霞鹜975黑体",
+    "weight": "400",
+    "source": "https://github.com/lxgw/975Hei/releases/tag/26.06.20",
+    "download": "https://github.com/lxgw/975Hei/releases/download/26.06.20/LXGW975HeiSC-400W.ttf",
+    "license": "https://raw.githubusercontent.com/lxgw/975Hei/master/OFL.txt",
+    "sha256": "a66482e17172b4bf989bbf7e6cdaaaa83e5f15d6ff621ef9034bdbbef4ba0466",
+    "bytes": 10527274,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "Yozai",
+    "label": "悠哉字体",
+    "weight": "400",
+    "source": "https://github.com/lxgw/yozai-font/releases/tag/v0.868",
+    "download": "https://github.com/lxgw/yozai-font/releases/download/v0.868/Yozai-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/lxgw/yozai-font/master/OFL.txt",
+    "sha256": "25071998a0fe6a72f54c235e714986d259633e5ff670b1a2b5e264387f3316ac",
+    "bytes": 15605374,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "Xiaolai",
+    "label": "小赖字体",
+    "weight": "400",
+    "source": "https://github.com/lxgw/kose-font/releases/tag/v3.126",
+    "download": "https://github.com/lxgw/kose-font/releases/download/v3.126/Xiaolai-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/lxgw/kose-font/master/OFL.txt",
+    "sha256": "e2f68daf0e72777a8cf58bc83de1b98634b251e537ddbfca24b0ae50d1802da2",
+    "bytes": 22220806,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "LXGWZhenKai",
+    "label": "霞鹜臻楷",
+    "weight": "400",
+    "source": "https://github.com/lxgw/LxgwZhenKai/releases/tag/v0.827",
+    "download": "https://github.com/lxgw/LxgwZhenKai/releases/download/v0.827/LXGWZhenKaiSlabGB-Regular.ttf",
+    "license": "https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/OFL.txt",
+    "sha256": "bf4ea8c39b51784469020120125715d3075137233fe337b5d0a7327f9dfc03bd",
+    "bytes": 17453376,
+    "sampleCoverage": 22
+  },
+  {
+    "id": "SmileySans",
+    "label": "得意黑",
+    "weight": "400",
+    "source": "https://github.com/atelier-anchor/smiley-sans/releases/tag/v2.0.1",
+    "download": "https://github.com/atelier-anchor/smiley-sans/releases/download/v2.0.1/smiley-sans-v2.0.1.zip",
+    "license": "https://raw.githubusercontent.com/atelier-anchor/smiley-sans/main/LICENSE",
+    "sha256": "b447d7e781f08bc95c4c9f23ba71ed2b8ebb639aa7184485c71c4ca5afcd25c4",
+    "bytes": 2629764,
+    "sampleCoverage": 22
+  }
+]
